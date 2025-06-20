@@ -28,7 +28,7 @@ A simple but powerful ERP and data analytics tool to help **retailers track paym
 - 📊 Provides full purchase/payback analytics per shop
 - 💸 Helps with **payment collection tracking** and overdue follow-ups
 - 👨‍👦 Designed to assist my dad in managing his daily retail operations
-- 🔗 [Coming Soon on GitHub](#)
+- 🔗 [Source Code](https://github.com/cernpavan/CollectIQ)
 
 ---
 
