@@ -12,11 +12,13 @@ I’m a passionate Data Analyst and Web Developer focused on solving real-world 
 🛠️ **Projects I Built**
 
 ### 📚 VitPaperVault
+
 A smart platform built for VIT students, serving over **21,000+ users**, providing easy access to **previous year question papers** and more.
 
-- 🧠 Uses **AI/ML** to suggest relevant papers based on course and semester
-- 🎓 Built to save time and improve preparation for exams
-- 🔗 [Coming Soon on GitHub](#)
+- 🧠 Uses **AI/ML** to suggest relevant papers based on course and semester  
+- 🎓 Built to save time and improve preparation for exams  
+- 🔗 [Live Site](https://vitpapervault.in)  
+- 💻 [Source Code](https://github.com/cernpavan/Vitpapervault)
 
 ---
 
