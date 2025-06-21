@@ -32,7 +32,7 @@ A complete ERP and analytics tool designed to help **retailers manage payments, 
 - 💸 Manages **payment collection tracking**, overdue follow-ups, and reminders  
 - 📈 Includes advanced features for **risk prediction and risk management**  
 - 👨‍👦 Built to assist my dad with daily retail operations using practical insights
-- - 🔗 [Live Site](https://payanalytics.pages.dev)   
+- 🔗 [Live Site](https://payanalytics.pages.dev)   
 - 💻 [Source Code](https://github.com/cernpavan/PayAnalytics)
 
 ---
