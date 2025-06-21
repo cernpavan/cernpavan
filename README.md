@@ -15,27 +15,32 @@ I’m a passionate Data Analyst and Web Developer focused on solving real-world 
 
 A smart platform built for VIT students, serving over **21,000+ users**, providing easy access to **previous year question papers** and more.
 
-- 🧠 Uses **AI/ML** to suggest relevant papers based on course and semester  
-- 🎓 Built to save time and improve preparation for exams  
+- 📄 Provides access to **750+ current and past exam papers** with answer keys  
+- 🧪 Features filters for **CAT-1, CAT-2, FAT**, and ongoing exams  
+- 🎯 Built with a clean **UI/UX** for easy navigation across **year-wise subjects and branches**  
+- ➕ Continuously evolving with features like **CGPA calculator**, **articles**, and more  
 - 🔗 [Live Site](https://vitpapervault.in)  
 - 💻 [Source Code](https://github.com/cernpavan/Vitpapervault)
 
 ---
 
-### 💼 MediPay ERP
-A simple but powerful ERP and data analytics tool to help **retailers track payments and business performance**.
+### 💼 PayAnalytics ERP
 
-- 📊 Provides full purchase/payback analytics per shop
-- 💸 Helps with **payment collection tracking** and overdue follow-ups
-- 👨‍👦 Designed to assist my dad in managing his daily retail operations
-- 🔗 [Source Code](https://github.com/cernpavan/CollectIQ)
+A complete ERP and analytics tool designed to help **retailers manage payments, collections, and shop performance** efficiently.
+
+- 📊 Full analytics on **purchases, payments, and shop-wise data points**  
+- 💸 Manages **payment collection tracking**, overdue follow-ups, and reminders  
+- 📈 Includes advanced features for **risk prediction and risk management**  
+- 👨‍👦 Built to assist my dad with daily retail operations using practical insights
+- - 🔗 [Live Site](https://payanalytics.pages.dev)   
+- 💻 [Source Code](https://github.com/cernpavan/PayAnalytics)
 
 ---
 
 📫 **Connect with Me**
 
-- 📧 Email: gunupatipavankumar@gmail.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: gunupatipavankumar@gmail.com  
+- 🌐 Portfolio: [yourwebsite.com](https://vitpapervault.in/Developers)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 
 ---
