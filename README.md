@@ -40,8 +40,8 @@ A complete ERP and analytics tool designed to help **retailers manage payments, 
 📫 **Connect with Me**
 
 - 📧 Email: gunupatipavankumar@gmail.com  
-- 🌐 Portfolio: [yourwebsite.com](https://vitpapervault.in/Developers)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/pavan-kumar-reddy-gunupati-238529274/)  
 
 ---
 
